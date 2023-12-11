@@ -11,12 +11,13 @@ I'm passionate about artificial intelligence, coding, and contributing to open-s
 
 ## Languages and Tools
 
-- Python
-- C
-- C++
-- TensorFlow
-- PyTorch
-- Git
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp" />
+  </a>
+</p>
 
 ## Get in Touch
 
