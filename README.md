@@ -1,5 +1,11 @@
 # Hello, I'm Meshwa! 👋
+<h2 align="center">Skills </h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp" />
+  </a>
+</p>
 I'm passionate about artificial intelligence, coding, and contributing to open-source projects.
 
 ## About Me
@@ -9,14 +15,5 @@ I'm passionate about artificial intelligence, coding, and contributing to open-s
 - 💻 Currently diving deeper into machine learning and AI applications.
 - 🤝 I'm always open to collaborations and contributing to open-source projects.
 
-## Languages and Tools
-
-<h2 align="center">Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp" />
-  </a>
-</p>
 
 Let's connect and collaborate on exciting AI and coding projects!
