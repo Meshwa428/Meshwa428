@@ -19,10 +19,4 @@ I'm passionate about artificial intelligence, coding, and contributing to open-s
   </a>
 </p>
 
-## Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile](link)
-- Email: your@email.com
-- Portfolio: [Your Portfolio](link)
-
 Let's connect and collaborate on exciting AI and coding projects!
