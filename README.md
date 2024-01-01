@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp,AI" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp,fastapi,flask" />
   </a>
 </p>
 I'm passionate about artificial intelligence, coding, and contributing to open-source projects.
