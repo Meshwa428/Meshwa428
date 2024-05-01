@@ -31,17 +31,6 @@ Let's connect and collaborate on exciting AI and coding projects!
   <br/><br/><br/>
 </div>
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-![](https://github-readme-stats.vercel.app/api?username=Meshwa428&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Meshwa428&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meshwa428&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-
-</div>
-
 <br/><br/>
 
 <hr/>
@@ -51,3 +40,8 @@ Let's connect and collaborate on exciting AI and coding projects!
 
 
 <br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Meshwa428&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Meshwa428&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meshwa428&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
