@@ -37,7 +37,6 @@ Let's connect and collaborate on exciting AI and coding projects!
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Meshwa428&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Meshwa428&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Meshwa428&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
 </div>
