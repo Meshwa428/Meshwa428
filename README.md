@@ -49,6 +49,6 @@ Let's connect and collaborate on exciting AI and coding projects!
 
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visting!+👋;+I'm+always+down+there;+to+colab!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visting!+👋;+I'm+always+there+to+colab!;" />
 </h1>
 <br/>
