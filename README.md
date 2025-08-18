@@ -1,9 +1,3 @@
-Of course! Adding your embedded systems skills is a great idea. I've updated the `skillicons.dev` link to include icons for Arduino, PlatformIO, and ESP-IDF (using the `espressif` icon, which represents the ecosystem).
-
-Just replace your entire `README.md` with the code below. The only change is in the "Skills" section.
-
----
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Meshwa428.Meshwa428" />
 
 <h1 align="center">
